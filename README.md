@@ -1,4 +1,4 @@
-## Salasar_Imaging_Software
+## Salasar_Imaging_Software (Using SDLC)
 Used Java, SQL, Microsoft Excel to create Form Based Desktop Application for a printing press. 
 - Used SLDC and its principles to produce the software and its necessary steps. 
 - Criteria A : Defining and Identifying the Problem to implement the software - Usecase 
